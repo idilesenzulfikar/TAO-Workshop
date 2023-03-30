@@ -1,4 +1,4 @@
-# TAO-Workshops
+# TAO-Workshop
 We are excited to announce two Multi-Object Tracking (MOT) competitions: the _Long-Tail Challenge_ and the _Open-World Challenge_ at the 2nd TAO-Workshop in CVPR2023. With these challenges, we aim to advance multi-object tracking and segmentation research in the challenging few-shot and open-world conditions.
 
 We base our challenge on [TAO (Tracking Any Object) dataset](https://taodataset.org/) and [BURST (Benchmark for Unifying Object Recognition, Segmentation, and Tracking)](https://github.com/Ali2500/BURST-benchmark) video segmentation labels. We provide **2,914 videos** with **pixel-precise** labels for **16,089 unique object tracks** (600,000 per-frame masks) spanning **482 object classes**!
